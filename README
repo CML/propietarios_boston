@@ -1,0 +1,3 @@
+Incluir en manifiest.xml:
+<project path="vendor/orange/Boston/proprietary" name="CML/propietarios_boston" remote="github" revision="gingerbread" />
+
